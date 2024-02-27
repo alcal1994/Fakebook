@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakebook.Server", "FormBuilderAndRenderer.Server\Fakebook.Server.csproj", "{D023F370-5097-4A33-8273-F39C357808BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakebook.Server", "Fakebook.Server\Fakebook.Server.csproj", "{D023F370-5097-4A33-8273-F39C357808BE}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "fakebook.client", "formbuilderandrenderer.client\fakebook.client.esproj", "{004F34EA-3D78-46C0-824F-CD4C717FFD7C}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "fakebook.client", "fakebook.client\fakebook.client.esproj", "{004F34EA-3D78-46C0-824F-CD4C717FFD7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
