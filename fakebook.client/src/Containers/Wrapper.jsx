@@ -52,7 +52,7 @@ function Wrapper({ children }) {
                     }}
                 />
                 <div>
-                    <Link to="/profile/toBeChanged">
+                    <Link to="/profile/Albert.Calamatta">
                         <Avatar size={44} icon={<UserOutlined style={{ color: "white", fontSize: '25px' }} />} />
                     </Link>
                 </div>
@@ -68,6 +68,7 @@ function Wrapper({ children }) {
                         minHeight: 280,
                         padding: 24,
                         borderRadius: borderRadiusLG,
+                        display: "inline-block",
                     }}
                 >
                     {children}

@@ -1,0 +1,22 @@
+body {
+}
+
+.profile-wrapper{
+    width: 900px;
+}
+
+.profile-aside {
+    display: inline-block;
+    float: left;
+    width: 30%;
+}
+.profile-main {
+    display: inline-block;
+    padding-left: 25px;
+    width: 50%;
+}
+
+.Info-SubHeading {
+    color: #3c5898 !important;
+    text-align: left;
+}
