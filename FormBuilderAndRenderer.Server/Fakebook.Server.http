@@ -1,0 +1,6 @@
+@Fakebook.Server_HostAddress = http://localhost:5149
+
+GET {{Fakebook.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
