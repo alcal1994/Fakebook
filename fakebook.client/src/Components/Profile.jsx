@@ -26,12 +26,12 @@ function Profile() {
     let id = params.profileId;
 
     const profileData = {
-        profileId: "Albert.Calamatta",
+        profile_id: "Albert.Calamatta",
         name: "Albert Calamatta",
         email: "albert.calamatta@gmail.com",
-        phoneNumber: "519-803-2269",
+        phone_number: "519-803-2269",
         college: "Davenport University",
-        highSchool: "Erin District High School",
+        high_school: "Erin District High School",
         lives: "Barrie, Ontario",
         from: "Erin, Ontario",
         pronouns: "He/Him"
